@@ -1,0 +1,30 @@
+html,
+body,
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;
+    font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style: none;
+}
+
+html,
+body {
+    width: 100%;
+}
+
+
+/* 使得右边滚动条消失 */
+
+
+/* body::-webkit-scrollbar {
+    display: none;
+} */

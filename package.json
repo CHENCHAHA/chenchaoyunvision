@@ -20,5 +20,10 @@
     "less": "^4.0.0",
     "less-loader": "^8.0.0",
     "vue-template-compiler": "^2.6.14"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
